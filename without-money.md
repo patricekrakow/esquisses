@@ -2,7 +2,7 @@
 
 _Agent-A_ sells a good-U to _agent-B_ for u EUR;
 
-_Agent-B_ pays _agent-a_ by owing u EUR (due to _agent-A_);
+_Agent-B_ pays _agent-A_ by owing u EUR (due to _agent-A_);
 
 _Agent-B_ have a **debt of u EUR** due to _agent-A_.
 
